@@ -102,10 +102,9 @@ The application takes user input and predicts the diamond price in real-time.
 ![alt text](Diamond.png)
 📈 MLflow Tracking
 
+```
 mlflow ui
-
-mlflow ui
-
+```
 👉 Open:
 http://localhost:5000
 
