@@ -109,10 +109,10 @@ mlflow ui
 http://localhost:5000
 
 💡 Key Learnings
-Built modular ML pipelines
-Learned model deployment using Flask
-Understood experiment tracking using MLflow
-Implemented production-ready project structure
+- Built modular ML pipelines
+- Learned model deployment using Flask
+- Understood experiment tracking using MLflow
+- Implemented production-ready project structure
 
 🔗 GitHub Repository
 ```
