@@ -65,16 +65,17 @@ Diamond Price Prediction/
 ## ⚙️ Installation
 
 ### 1️⃣ Clone the repository
-```bash
+```
 git clone https://github.com/Keerthivardhan1507/Diamond-Price-Prediction.git
 cd Diamond-Price-Prediction
+```
 
 2️⃣ Create environment
 
-```bash
+```
 conda create -n diamond python=3.10
 conda activate diamond
-
+```
 3️⃣ Install dependencies
 
 ```bash
