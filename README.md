@@ -39,6 +39,7 @@ It is a complete **end-to-end Machine Learning project** including data ingestio
 ---
 
 ## 📁 Project Structure
+```
 Diamond Price Prediction/
 │── src/
 │ ├── components/
@@ -58,6 +59,7 @@ Diamond Price Prediction/
 │── requirements.txt
 │── setup.py
 │── .gitignore
+```
 
 
 ---
@@ -78,17 +80,18 @@ conda activate diamond
 ```
 3️⃣ Install dependencies
 
-```bash
+```
 pip install -r requirements.txt
-
+```
 ▶️ Run the Project
 🔹 Run Training Pipeline
-```bash
+```
 python -m src.pipelines.training_pipeline
-
+```
 🔹 Run Flask App
-
+```
 python app.py
+```
 👉 Open browser:
 http://127.0.0.1:8080/
 
@@ -96,8 +99,7 @@ http://127.0.0.1:8080/
 
 The application takes user input and predicts the diamond price in real-time.
 
-c:\Users\KEERTHI VARDHAN\OneDrive\Pictures\Diamond.png
-
+![alt text](Diamond.png)
 📈 MLflow Tracking
 
 mlflow ui
@@ -112,10 +114,11 @@ Built modular ML pipelines
 Learned model deployment using Flask
 Understood experiment tracking using MLflow
 Implemented production-ready project structure
+
 🔗 GitHub Repository
-
+```
 https://github.com/Keerthivardhan1507/Diamond-Price-Prediction
-
+```
 👨‍💻 Author
 
 Keerthi Vardhan Naidu
@@ -126,7 +129,8 @@ Keerthi Vardhan Naidu
 
 After pasting:
 
-```bash
+```
 git add README.md
 git commit -m "Added professional README"
 git push
+```
